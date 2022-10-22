@@ -1,0 +1,30 @@
+.contenedor_button {
+	display: flex;
+	justify-content: space-between;
+	padding: 2rem;
+}
+.redes {
+	display: flex;
+	grid-gap: 0.5rem;
+
+
+}
+#text {
+ font-weight: 100;
+}
+a {
+	background: red;
+	padding: 0.7rem;
+	border-radius: 0.2rem;
+    width: 2.5rem;
+
+}
+.info {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+}
+#author {
+	margin-left: 20rem;
+}
