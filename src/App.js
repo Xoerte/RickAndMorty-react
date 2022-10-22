@@ -25,6 +25,7 @@ const App = (props) => {
     setColor(colors[randomNumber])
     console.log(randomNumber)
   } 
+  
   return (
     <div id="quote-box" class="container" style={({backgroundColor:color})}>
       <div class="row mt-5 p-5">
